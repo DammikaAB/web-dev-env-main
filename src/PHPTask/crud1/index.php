@@ -1,6 +1,7 @@
 <?php 
 $title = "Exaercise01: HAMK oy";
-include "header.php" ?>
+
+include '../header.php' ?>
 
 
 <h2>Input Your Information Below:</h2>
@@ -39,4 +40,4 @@ include "header.php" ?>
 </form>
 
 <?php
-include "footer.php" ?>
+include '../footer.php' ?>
