@@ -1,3 +1,6 @@
+<?php 
+$title = "Exaercise01: HAMK oy";
+include "header.php" ?>
 
 
 <h2>Input Your Information Below:</h2>
@@ -34,3 +37,6 @@
     </div>
     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
 </form>
+
+<?php
+include "footer.php" ?>
