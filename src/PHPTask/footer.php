@@ -8,6 +8,10 @@
   </div>
   <!-- Copyright -->
 
+  Ex4.php was last modified on 
+  <?php echo date("d.m.Y") ?>
+
+
 </footer></div>
 </div>
 
