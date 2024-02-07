@@ -12,19 +12,7 @@
   <?php echo date("d.m.Y") ?>
 
 
-  <?php
-// Get the current month name
-$currentMonth = date("F");
-
-
-switch ($currentMonth) {
-    case 'August':
-        echo "<h6>It's August, so it's still holiday.</h6>";
-        break;
-    default:
-        echo "<h6>Not August, this is $currentMonth so I don't have any holidays.</h6><br><br>";
-}
-?>
+  
 
 </footer></div>
 </div>
