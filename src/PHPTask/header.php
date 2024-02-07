@@ -40,13 +40,13 @@
             <a class="nav-link" href="ex4.php">Exercise 4</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="header.php">Exercise 5</a>
+            <a class="nav-link" href="ex5.php">Exercise 5</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="header.php">Exercise 6</a>
+            <a class="nav-link" href="ex6.php">Exercise 6</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="header.php">Exercise 7</a>
+            <a class="nav-link" href="ex7.php">Exercise 7</a>
         </li>
         
       </ul>
