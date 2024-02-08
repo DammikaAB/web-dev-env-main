@@ -1,5 +1,5 @@
 <?php 
-$title = "Exaercise01: HAMK oy";
+$title = "Exaercise 7: HAMK oy";
 include "header.php" ?>
     
 <h2>Input Your Information Below:</h2>
