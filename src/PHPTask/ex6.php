@@ -14,17 +14,17 @@ windows.alert("this is an alet box")
 
 </script>
 
+
+
 <script>
 
     function hello {
         document.write("This is after the page has loaded")
     }
 
-<button onclick="hello"> Click me</button>
+<button onclick="document.write"> Click me</button>
 
-
->/script>
-
+</script>
 
 
 <?php
