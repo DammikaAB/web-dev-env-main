@@ -1,4 +1,4 @@
-
+# Table 1 Dammika
 
 CREATE TABLE `studentsinfo` (
   `id` int NOT NULL,
@@ -7,3 +7,6 @@ CREATE TABLE `studentsinfo` (
   `groupId` varchar(50) NOT NULL,
   `city` varchar(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+
+# Table 2 ....
