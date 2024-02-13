@@ -27,11 +27,11 @@ include '../header.php' ?>
             <div class="col">
                 <label for="groupid">Group ID:</label>
                 <select class="form-control" id="groupid" name="groupid">
-                    <option value="BBCAP19">BBCAP19</option>
-                    <option value="BBCAP20">BBCAP20</option>
-                    <option value="BBCAP21">BBCAP21</option>
-                    <option value="BBCAP22">BBCAP22</option>
-                    <option value="Others">Others</option>
+                    <option value="BBCAP19">BBCAP19</option><br>
+                    <option value="BBCAP20">BBCAP20</option><br>
+                    <option value="BBCAP21">BBCAP21</option><br>
+                    <option value="BBCAP22">BBCAP22</option><br>
+                    <option value="Others">Others</option><br>
                 </select>
             </div>
         </div>
