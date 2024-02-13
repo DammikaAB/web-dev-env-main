@@ -62,8 +62,8 @@
     <div class="col-sm-3" style="background-color: rgba(228, 235, 194, 0.353);">
       <h3>Dammika's Tasks</h3>
       <br>
-      Exercise 1: Getting Started with PHP.
+      
       <br><br>
-      Task 3: Creating ex1.php in the same folder.
+      
     </div>
     <div class="col-sm-9">
